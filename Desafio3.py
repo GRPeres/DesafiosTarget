@@ -18,7 +18,7 @@ def calcular_estatisticas(dados):
     
     return menor_faturamento, maior_faturamento, dias_acima_da_media
 
-caminho_arquivo = 'C:/Users/grper/Downloads/dados.json'
+caminho_arquivo = 'inserir caminho aqui'
 
 dados = ler_json(caminho_arquivo)
 
